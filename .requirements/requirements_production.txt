@@ -1,0 +1,10 @@
+## Sentry ##
+sentry-sdk==0.7.9
+
+
+## Django Storages ##
+django-storages==1.7.1
+
+
+## Anymail ##
+django-anymail==6.0
